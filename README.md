@@ -17,3 +17,23 @@ Este é um projeto simples que consome uma API de previsão do tempo e mostra o 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/araujocg/weather-app.git
+
+2. Entre na pasta do projeto:
+   ```bash
+   cd weather-app
+
+3. Instale as dependências:
+   ```bash
+   npm install
+
+
+4. Inicie o projeto:
+   ```bash
+   npm start
+
+
+5. Abra http://localhost:3000
+   ```bash
+   no navegador para ver o app rodando.
+
+![Screenshot do app](screenshot.png)
